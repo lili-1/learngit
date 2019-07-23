@@ -1,2 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
+你好
+好吧
 <SecurityForecast><VulnInfo ID="1494903526502" Warning="1" Type="1" TypeName="外部预警"><HoleList/><PortList/><OSList><OS ID="其他操作系统"/></OSList></VulnInfo></SecurityForecast>
